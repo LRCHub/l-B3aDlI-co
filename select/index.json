@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "告白日和、です!",
+  "base_artist": "南ことり (CV.内田 彩)、小泉花陽 (CV.久保ユリカ)",
+  "createdAt": "2025-12-14T05:12:26.894330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "告白日和、です!",
+      "artist": "南ことり(CV.内田彩) & 小泉花陽(CV.久保ユリカ)",
+      "has_synced": true,
+      "path": "select/01_告白日和、です!_南ことり(CV.内田彩)_&_小泉花陽(CV.久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "告白日和、です！",
+      "artist": "南ことり(内田彩)&小泉花陽(久保ユリカ)",
+      "has_synced": false,
+      "path": "select/02_告白日和、です!_南ことり(内田彩)&小泉花陽(久保ユリカ).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "告白日和、です！",
+      "artist": "南ことり(CV. 内田彩), 小泉花陽(CV. 久保ユリカ)",
+      "has_synced": true,
+      "path": "select/03_告白日和、です!_南ことり(CV._内田彩),_小泉花陽(CV._久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "告白日和、です!",
+      "artist": "南ことり(CV.内田彩)",
+      "has_synced": false,
+      "path": "select/04_告白日和、です!_南ことり(CV.内田彩).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "告白日和、です!",
+      "artist": "Minami, Kotori(CV.Uchida, Aya) & Koizumi, Hanayo(CV.Kubo, Yurika)",
+      "has_synced": false,
+      "path": "select/05_告白日和、です!_Minami,_Kotori(CV.Uchida,_Aya)_&_Koizumi,_Hanayo(CV.Kubo,_Yurika).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "告白日和、です！（KOTORI Mix）",
+      "artist": "内田彩",
+      "has_synced": true,
+      "path": "select/06_告白日和、です!(KOTORI_Mix)_内田彩.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "告白日和、です!",
+      "artist": "南ことり",
+      "has_synced": false,
+      "path": "select/07_告白日和、です!_南ことり.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "告白日和、です！（KOTORI Mix）",
+      "artist": "南ことり",
+      "has_synced": true,
+      "path": "select/08_告白日和、です!(KOTORI_Mix)_南ことり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "告白日和、です!",
+      "artist": "南ことり(CV.内田 彩)",
+      "has_synced": false,
+      "path": "select/09_告白日和、です!_南ことり(CV.内田_彩).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "告白日和、です！",
+      "artist": "南ことり(CV.内田彩)&小泉花陽(CV.久保ユリカ)",
+      "has_synced": true,
+      "path": "select/10_告白日和、です!_南ことり(CV.内田彩)&小泉花陽(CV.久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "告白日和、です! (KOTORI Mix)",
+      "artist": "南ことり",
+      "has_synced": false,
+      "path": "select/11_告白日和、です!_(KOTORI_Mix)_南ことり.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "告白日和、です！（KOTORI Mix）",
+      "artist": "南ことり(CV.内田彩) from μ's",
+      "has_synced": false,
+      "path": "select/12_告白日和、です!(KOTORI_Mix)_南ことり(CV.内田彩)_from_μ's.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "告白日和、です！(HANAYO Mix)",
+      "artist": "小泉花陽(CV．久保ユリカ) from μ's",
+      "has_synced": false,
+      "path": "select/13_告白日和、です!(HANAYO_Mix)_小泉花陽(CV.久保ユリカ)_from_μ's.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "告白日和、です!",
+      "artist": "内田彩",
+      "has_synced": false,
+      "path": "select/14_告白日和、です!_内田彩.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "告白日和、です！",
+      "artist": "南ことり(CV．内田彩)、小泉花陽(CV．久保ユリカ)",
+      "has_synced": true,
+      "path": "select/15_告白日和、です!_南ことり(CV.内田彩)、小泉花陽(CV.久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "告白日和、です!",
+      "artist": "Kotori Minami(CV.Aya Uchida) & Hanayo Koizumi(CV.Yurika Kubo)",
+      "has_synced": true,
+      "path": "select/16_告白日和、です!_Kotori_Minami(CV.Aya_Uchida)_&_Hanayo_Koizumi(CV.Yurika_Kubo).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "告白日和、です！（KOTORI Mix）",
+      "artist": "Kotori Minami(CV.Aya Uchida)",
+      "has_synced": false,
+      "path": "select/17_告白日和、です!(KOTORI_Mix)_Kotori_Minami(CV.Aya_Uchida).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "告白日和、です!",
+      "artist": "南ことり(CV.内田彩)&小泉花陽(CV.久保ユリカ)",
+      "has_synced": false,
+      "path": "select/pl_01_告白日和、です!_南ことり(CV.内田彩)&小泉花陽(CV.久保ユリカ).txt"
+    }
+  ]
+}
